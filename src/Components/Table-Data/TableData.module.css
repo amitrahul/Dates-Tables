@@ -1,0 +1,5 @@
+.tabledataRow {
+  display: flex;
+  gap: 80px;
+  margin-top: 50px;
+}

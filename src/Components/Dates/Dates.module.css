@@ -1,0 +1,30 @@
+.dateWrapper {
+  display: flex;
+  flex-direction: column;
+}
+.btnWrapper {
+  display: flex;
+  width: 50vw;
+  gap: 20px;
+  justify-content: space-evenly;
+  align-items: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+.btn {
+  padding: 9px;
+  margin-top: 15px;
+  border: 2px solid floralwhite;
+  border-radius: 15px;
+}
+
+.tableWrapper {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.tableRow {
+  display: flex;
+  gap: 90px;
+  margin-top: 50px;
+}
